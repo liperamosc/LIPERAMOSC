@@ -1,0 +1,46 @@
+1 - EXPLIQUE AS DIFERENÇAS ENTRE 3 LINGUAGES DE PROGRAMÇÃO: 
+mas a cultura em volta delas é muito diferente. Por exemplo, Java tenta ser mais explícita, C# tenta ser mais concisa. Mas é muito comum algumas pessoas pregarem a cultura do Java em C# (é incrível como elas chegam falar em cultura C# quando na verdade estão falando de práticas comuns em Java que foram importadas por algumas pessoas que não entendem a diferença).
+
+Java tem uma comunidade mais ativa publicamente. Para o bem ou para o mal. Em alguns mercados possui mais vagas abertas, o que não significa que existam mais posições. Afinal em certas culturas é mais comum trocar de emprego que em outras. Nada muito diferente, mas Java é um pouco mais abrangente em algumas coisas, porém mais dispersa também, é muito comum a duplicação de esforços, competição de ferramentas (que pode ser bom ou ruim) e maneiras diferentes de fazer a mesma coisa. Isso tem mudado um pouco.
+
+HP e Java são duas das linguagens de programação mais populares e amplamente utilizadas do mundo. Escolher entre as duas pode ser uma tarefa difícil, especialmente se você não entende as diferenças entre elas.
+
+Aqui estão algumas coisas a considerar ao escolher entre PHP e Java para o seu projeto.
+
+Tipo de projeto: o tipo de projeto que você está trabalhando é uma das principais considerações ao escolher entre PHP e Java. Java é uma ótima opção para projetos de grande escala e aplicações empresariais, enquanto PHP é uma escolha popular para sites dinâmicos e aplicações web.
+
+Comunidade: ambas as linguagens possuem comunidades ativas e fortes, mas a comunidade Java é geralmente considerada mais madura e estável. Se você precisar de ajuda ou recursos, é importante considerar a atividade da comunidade.
+
+Desempenho: em geral, Java é considerada uma linguagem mais rápida e confiável do que PHP. No entanto, o desempenho real dependerá da implementação específica do seu projeto. Custo: o custo de desenvolvimento pode ser um fator importante a considerar. Java geralmente requer mais tempo e recursos para ser implementada do que PHP, o que pode levar a custos mais elevados.
+
+Habilidades de equipe: finalmente, é importante considerar as habilidades de sua equipe ao escolher entre PHP e Java. Se sua equipe já possui habilidades em Java, é provável que sejam mais produtivas trabalhando nessa linguagem.
+
+Ao escolher entre PHP e Java, é importante considerar cuidadosamente seus objetivos e recursos, bem como as diferenças entre as duas linguagens. Escolha a linguagem que melhor se adapte às suas necessidades e ao seu projeto para obter o melhor resultado.
+
+Detalhes 
+
+a) código java; Custo:import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+// The main method must be in a class named "Main".
+class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+} 
+
+código C#: using System;
+
+namespace MyCompiler {
+    class Program {
+        public static void Main(string[] args) {
+            Console.WriteLine("Hello world!");
+        }
+    }
+} 
+
+Código typescript: const message:string = "hello world!";
+console.log(message); 
+
+b) execução; 
